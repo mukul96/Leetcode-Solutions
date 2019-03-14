@@ -9,3 +9,4 @@ These are the links to the problems solved by me and the solutions are above
 5. [Stone Game](https://leetcode.com/problems/stone-game)
 6. [Reverse String](https://leetcode.com/problems/reverse-string)
 7. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+8. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
