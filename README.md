@@ -10,3 +10,7 @@ These are the links to the problems solved by me and the solutions are above
 6. [Reverse String](https://leetcode.com/problems/reverse-string)
 7. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 8. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+9. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+10. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+11. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+12. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
