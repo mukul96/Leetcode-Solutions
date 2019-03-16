@@ -17,3 +17,6 @@ These are the links to the problems solved by me and the solutions are above
 13. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 14. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 15. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+16. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+17. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+18. [Reorder List](https://leetcode.com/problems/reorder-list/)
