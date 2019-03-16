@@ -14,3 +14,6 @@ These are the links to the problems solved by me and the solutions are above
 10. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 11. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 12. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+13. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+14. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+15. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
