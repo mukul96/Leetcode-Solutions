@@ -21,4 +21,5 @@ These are the links to the problems solved by me and the solutions are above
 17. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 18. [Reorder List](https://leetcode.com/problems/reorder-list/)
 19. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+20. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
