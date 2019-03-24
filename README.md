@@ -23,4 +23,5 @@ These are the links to the problems solved by me and the solutions are above
 19. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 20. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 21. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+22. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 
