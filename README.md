@@ -25,4 +25,5 @@ These are the links to the problems solved by me and the solutions are above
 21. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 22. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 23. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+24. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
