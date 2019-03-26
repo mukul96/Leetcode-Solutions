@@ -27,4 +27,5 @@ These are the links to the problems solved by me and the solutions are above
 23. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 24. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 25. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+26. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 
