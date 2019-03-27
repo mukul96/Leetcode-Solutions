@@ -29,4 +29,5 @@ These are the links to the problems solved by me and the solutions are above
 25. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 26. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 27. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+28. [Partition List](https://leetcode.com/problems/partition-list/)
 
