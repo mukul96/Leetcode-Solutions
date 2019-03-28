@@ -30,4 +30,6 @@ These are the links to the problems solved by me and the solutions are above
 26. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 27. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 28. [Partition List](https://leetcode.com/problems/partition-list/)
+29. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+30. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
