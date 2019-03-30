@@ -32,4 +32,7 @@ These are the links to the problems solved by me and the solutions are above
 28. [Partition List](https://leetcode.com/problems/partition-list/)
 29. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 30. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+31. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+32. [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+33. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
