@@ -38,4 +38,5 @@ These are the links to the problems solved by me and the solutions are above
 34. [ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 35. [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
 36. [Majority Element](https://leetcode.com/problems/majority-element/)
+37. [Missing Number](https://leetcode.com/problems/missing-number/)
 
