@@ -39,4 +39,4 @@ These are the links to the problems solved by me and the solutions are above
 35. [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
 36. [Majority Element](https://leetcode.com/problems/majority-element/)
 37. [Missing Number](https://leetcode.com/problems/missing-number/)
-38. [Single Number](https://leetcode.com/problems/single-number/
+38. [Single Number](https://leetcode.com/problems/single-number/]
