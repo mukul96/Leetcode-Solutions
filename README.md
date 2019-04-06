@@ -40,3 +40,4 @@ These are the links to the problems solved by me and the solutions are above
 36. [Majority Element](https://leetcode.com/problems/majority-element/)
 37. [Missing Number](https://leetcode.com/problems/missing-number/)
 38. [Single Number](https://leetcode.com/problems/single-number/)
+39. [Single Number 2](https://leetcode.com/problems/single-number-ii/)
