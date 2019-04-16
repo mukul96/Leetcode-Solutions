@@ -42,3 +42,4 @@ These are the links to the problems solved by me and the solutions are above
 38. [Single Number |](https://leetcode.com/problems/single-number/)
 39. [Single Number ||](https://leetcode.com/problems/single-number-ii/)
 40. [Single Number |||](https://leetcode.com/problems/single-number-iii/)
+41. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
