@@ -43,3 +43,10 @@ These are the links to the problems solved by me and the solutions are above
 39. [Single Number ||](https://leetcode.com/problems/single-number-ii/)
 40. [Single Number |||](https://leetcode.com/problems/single-number-iii/)
 41. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+42. [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+
+
+
+
+
+
