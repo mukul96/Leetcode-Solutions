@@ -45,7 +45,7 @@ These are the links to the problems solved by me and the solutions are above
 41. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 42. [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 43. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-
+44. [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 
 
 
