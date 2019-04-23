@@ -47,6 +47,7 @@ These are the links to the problems solved by me and the solutions are above
 43. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 44. [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 45. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+46. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
 
 
