@@ -49,6 +49,7 @@ These are the links to the problems solved by me and the solutions are above
 45. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 46. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 47. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+48. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 
 
