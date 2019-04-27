@@ -51,6 +51,7 @@ These are the links to the problems solved by me and the solutions are above
 47. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 48. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 49. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/)
+50. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 
 
