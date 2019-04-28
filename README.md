@@ -53,6 +53,7 @@ These are the links to the problems solved by me and the solutions are above
 49. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/)
 50. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 51. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+52. [Min Stack](https://leetcode.com/problems/min-stack/)
 
 
 
