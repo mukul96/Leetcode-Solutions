@@ -56,6 +56,7 @@ These are the links to the problems solved by me and the solutions are above
 52. [Min Stack](https://leetcode.com/problems/min-stack/)
 53. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 54. [Gas Station](https://leetcode.com/problems/gas-station/)
+55. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 
 
