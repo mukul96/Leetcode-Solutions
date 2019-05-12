@@ -62,6 +62,7 @@ These are the links to the problems solved by me and the solutions are above
 58. [Combinations](https://leetcode.com/problems/combinations/)
 59. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 60. [Path Sum](https://leetcode.com/problems/path-sum/submissions/)
+61. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 
 
 
