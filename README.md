@@ -60,6 +60,7 @@ These are the links to the problems solved by me and the solutions are above
 56. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 57. [Combination Sum](https://leetcode.com/problems/combination-sum/)
 58. [Combinations](https://leetcode.com/problems/combinations/)
+59. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 
 
