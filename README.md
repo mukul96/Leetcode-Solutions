@@ -59,6 +59,7 @@ These are the links to the problems solved by me and the solutions are above
 55. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 56. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 57. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+58. [Combinations](https://leetcode.com/problems/combinations/)
 
 
 
