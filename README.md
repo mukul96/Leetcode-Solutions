@@ -63,6 +63,7 @@ These are the links to the problems solved by me and the solutions are above
 59. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 60. [Path Sum](https://leetcode.com/problems/path-sum/submissions/)
 61. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+62. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 
 
