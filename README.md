@@ -66,6 +66,7 @@ These are the links to the problems solved by me and the solutions are above
 62. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 63. [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 64. [Power of Four](https://leetcode.com/problems/power-of-four/)
+65. [Nth Digit](https://leetcode.com/problems/nth-digit/)
 
 
 
