@@ -69,6 +69,8 @@ These are the links to the problems solved by me and the solutions are above
 65. [Nth Digit](https://leetcode.com/problems/nth-digit/)
 66. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 67. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+68. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+69. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 
 
 
