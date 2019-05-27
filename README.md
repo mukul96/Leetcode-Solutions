@@ -71,6 +71,7 @@ These are the links to the problems solved by me and the solutions are above
 67. [Course Schedule](https://leetcode.com/problems/course-schedule/)
 68. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 69. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+70. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 
 
