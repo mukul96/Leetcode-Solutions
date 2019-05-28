@@ -50,7 +50,7 @@ These are the links to the problems solved by me and the solutions are above
 46. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 47. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 48. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-49. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/)
+49. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 50. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 51. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 52. [Min Stack](https://leetcode.com/problems/min-stack/)
@@ -61,7 +61,7 @@ These are the links to the problems solved by me and the solutions are above
 57. [Combination Sum](https://leetcode.com/problems/combination-sum/)
 58. [Combinations](https://leetcode.com/problems/combinations/)
 59. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-60. [Path Sum](https://leetcode.com/problems/path-sum/submissions/)
+60. [Path Sum](https://leetcode.com/problems/path-sum/)
 61. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 62. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 63. [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
@@ -72,6 +72,7 @@ These are the links to the problems solved by me and the solutions are above
 68. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 69. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 70. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+71. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 
 
