@@ -73,6 +73,7 @@ These are the links to the problems solved by me and the solutions are above
 69. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 70. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 71. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+72. [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 
 
 
