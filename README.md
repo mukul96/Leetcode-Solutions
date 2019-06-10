@@ -76,6 +76,7 @@ These are the links to the problems solved by me and the solutions are above
 72. [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 73. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 74. [Binary Search](https://leetcode.com/problems/binary-search/)
+75. [ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
 
 
