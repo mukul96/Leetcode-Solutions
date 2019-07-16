@@ -80,6 +80,8 @@ These are the links to the problems solved by me and the solutions are above
 76. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 77. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 78. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+79. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 
 
 
