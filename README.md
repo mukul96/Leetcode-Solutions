@@ -81,6 +81,8 @@ These are the links to the problems solved by me and the solutions are above
 77. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 78. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 79. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+80. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+81. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 
 
 
