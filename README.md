@@ -84,10 +84,7 @@ These are the links to the problems solved by me and the solutions are above
 80. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 81. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 82. [Subsets](https://leetcode.com/problems/pascals-triangle-ii/)
-
-
-
-
+83. [Permutations](https://leetcode.com/problems/pascals-triangle-ii/)
 
 
 
