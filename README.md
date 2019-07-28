@@ -86,6 +86,7 @@ These are the links to the problems solved by me and the solutions are above
 82. [Subsets](https://leetcode.com/problems/pascals-triangle-ii/)
 83. [Permutations](https://leetcode.com/problems/pascals-triangle-ii/)
 84. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+85. [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)
 
 
 
