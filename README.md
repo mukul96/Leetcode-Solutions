@@ -88,6 +88,7 @@ These are the links to the problems solved by me and the solutions are above
 84. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
 85. [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)
 86. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+87. [Dilemma](https://www.codechef.com/AUG19B/problems/CHEFDIL)
 
 
 
