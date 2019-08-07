@@ -1,1 +1,5 @@
 1. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+2. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
+3. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+4. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+5. [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
