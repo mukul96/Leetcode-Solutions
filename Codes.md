@@ -90,7 +90,8 @@ These are the links to the problems solved by me and the solutions are above
 86. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
 87. [Dilemma](https://www.codechef.com/AUG19B/problems/CHEFDIL)
 88. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
-89. [Find Smallest Letter Greater Than Target]()
+89. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
+90. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 
 
 
