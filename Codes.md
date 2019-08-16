@@ -92,6 +92,7 @@ These are the links to the problems solved by me and the solutions are above
 88. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 89. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 90. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+91. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 
