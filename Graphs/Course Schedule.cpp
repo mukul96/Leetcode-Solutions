@@ -1,39 +1,44 @@
-class Solution {
+class Solution
+{
 public:
-    bool dfs(map<int,vector<int> >& m ,vector<bool>& explored,vector<bool> &recursionStack,int i){
-        if(!explored[i]){
-            explored[i]=true;
-            recursionStack[i]=true;
-            for(int j=0;j<m[i].size();j++){
-                if(!explored[m[i][j]] && dfs(m,explored,recursionStack,m[i][j])){
-                    return(true);
-                }
-                if(recursionStack[m[i][j]]){
-                    return(true);
+    bool canFinish(int n, vector<vector<int> > &pre)
+    {
+        unordered_map<int, vector<int> > nums;
+        vector<int> indegree(n, 0);
+        queue<int> q;
+        int count = 0;
+        for (int i = 0; i < pre.size(); i++)
+        {
+            nums[pre[i][1]].push_back(pre[i][0]);
+            indegree[pre[i][0]] += 1;
+        }
+        for (int i = 0; i < n; i++)
+        {
+            if (indegree[i] == 0)
+            {
+                cout << "indegree i " << i << endl;
+                count++;
+                q.push(i);
+            }
+        }
+        while (!q.empty())
+        {
+            int temp = q.front();
+            q.pop();
+            for (int i = 0; i < nums[temp].size(); i++)
+            {
+                indegree[nums[temp][i]] -= 1;
+                if (indegree[nums[temp][i]] == 0)
+                {
+                    q.push(nums[temp][i]);
+                    count++;
                 }
             }
-            
         }
-        recursionStack[i]=false;
-        return(false);
-    }
-    
-    bool canFinish(int n, vector<vector<int>>& p) {
-        if(p.size()==0){
-            return(true);
+        if (count != n)
+        {
+            return false;
         }
-        map<int,vector<int>> m;
-        vector<bool> explored(n,false);
-        vector<bool> recursionStack(n,false);
-        for(int i=0;i<p.size();i++){
-            m[p[i][1]].push_back(p[i][0]);
-        }
-        for(int i=0;i<n;i++){
-            if(dfs(m,explored,recursionStack,i)){
-                 return(false);
-            }
-            
-        }
-        return(true);
+        return true;
     }
 };
