@@ -1,30 +1,46 @@
-class Solution {
+class Solution
+{
 public:
-    void dfs(int v,map<int,vector<int>>& m,vector<int>& s,vector<int>& a){
-        a[v]=1;
-        for(int i=0;i<m[v].size();i++){
-            if( !a[m[v][i]] ){
-                dfs(m[v][i],m,s,a);
+    vector<int> findOrder(int n, vector<vector<int> > &pre)
+    {
+        vector<int> res;
+        unordered_map<int, vector<int> > nums;
+        vector<int> indegree(n, 0);
+        queue<int> q;
+        int count = 0;
+        for (int i = 0; i < pre.size(); i++)
+        {
+            nums[pre[i][1]].push_back(pre[i][0]);
+            indegree[pre[i][0]] += 1;
+        }
+        for (int i = 0; i < n; i++)
+        {
+            if (indegree[i] == 0)
+            {
+                cout << "indegree i " << i << endl;
+                count++;
+                q.push(i);
             }
         }
-        s.push_back(v);
-    }
-        
-
-    vector<int> findOrder(int n, vector<vector<int>>& p) {
-        map<int,vector<int> > m;
-        vector<int> a(n,0);
-        vector<int> s;
-        for(int i=0;i<p.size();i++){
-            m[p[i][1]].push_back(p[i][0]);
-        }
-        for(int i=0;i<n;i++){
-            if(!a[i]){
-                dfs(i,m,s,a);
+        while (!q.empty())
+        {
+            int temp = q.front();
+            res.push_back(temp);
+            q.pop();
+            for (int i = 0; i < nums[temp].size(); i++)
+            {
+                indegree[nums[temp][i]] -= 1;
+                if (indegree[nums[temp][i]] == 0)
+                {
+                    q.push(nums[temp][i]);
+                    count++;
+                }
             }
         }
-        reverse(s.begin(),s.end());
-        return(s);
-        
+        if (count != n)
+        {
+            return {};
+        }
+        return res;
     }
 };
