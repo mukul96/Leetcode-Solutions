@@ -1,0 +1,47 @@
+class Solution {
+public:
+    bool validColor(vector<vector<int>>& nums, vector<int> & colors, int color,int i){
+        colors[i] = color;
+        
+        for(int j=0;j<nums[i].size();j++){
+            if(colors[nums[i][j]]==-color){
+                continue;
+            }
+            else if(colors[nums[i][j]] == color || 
+!validColor(nums, colors, -color, nums[i][j]) ){
+                return false;
+            }
+        }
+        return true;
+    }
+    bool isBipartite(vector<vector<int>>& nums) {
+        int n = nums.size();
+        vector<int> colors(n,0);
+        queue<pair<int, int>> q;
+        for(int i=0;i<nums.size();i++){
+            if(colors[i]==0){
+                q.push(make_pair(i, 1));
+            }
+            while(!q.empty()){
+                int value = q.front().first;
+                int colorValue = q.front().second;
+                q.pop();
+                for(int j=0;j<nums[value].size();j++){
+                    if(colors[nums[value][j]] ==-colorValue ){
+                        continue;
+                    }
+                    else if(colors[nums[value][j]] == colorValue ){
+                        return false;
+                    }
+                    else{
+                        colors[nums[value][j]] = -colorValue;
+                        q.push(make_pair(nums[value][j], -colorValue));
+                    }
+                }
+            }
+        }
+        
+        return true;
+        
+    }
+};
