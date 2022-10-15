@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int longestConsecutive(vector<int>& nums) {
-        if(nums.size()<=1){
-            return(nums.size());
+    int longestConsecutive(vector<int>& vec) {
+        map<int,int> nums;
+        if(vec.size()==0 ){
+            return 0;
         }
-        set<int> myset(nums.begin(),nums.end());
-        int k=1;
-        set<int>::iterator it=myset.begin();
-        int m=*it,mx=INT_MIN;++it;
-        for (; it!=myset.end(); ++it){
-            if((*it)==m+1){
-                k++;
-                m=*it;
-                mx=max(k,mx);
+        for(int i=0;i<vec.size();i++){
+            nums[vec[i]] = 1;
+        }
+        
+        int res = 1, currCount = 1;
+        auto  it1 = nums.begin(), it = nums.begin();
+        ++it;
+        for(auto it2=it;it2!=nums.end();++it2){
+            if((it2->first) - (it1->first)==1){
+                currCount++;
             }
             else{
-                k=1;
-                m=*it;
+                currCount=1;
             }
+            res = max(res, currCount);
+            it1 = it2;
         }
-    
-        return(max(mx,k));
+        return res;
     }
 };
